@@ -5,9 +5,7 @@
     <title>Title</title>
 </head>
 <body>
-<p>
-
-
-</p>
+： 会替换成当前网站的地址（不含域名）
+/Public/admin/css
 </body>
 </html>
